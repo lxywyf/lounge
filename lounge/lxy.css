@@ -1,0 +1,29 @@
+.guarantee{
+  border-color: white;
+  border-width: 1px;
+  border-style: dashed;
+  background-color: #a7cece;
+  padding: 25px;
+  padding-left: 80px;
+  margin: 30px;
+  margin-right: 250px;
+  background-image: url(images/background.gif);
+  background-repeat: no-repeat;
+  background-position: top left;
+
+}
+#elixirs{
+  border-width: thin;
+  border-style: solid;
+  border-color: #8349c5;
+  border-width: 5px;
+  width: 200px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  margin-left: 33%;
+  margin-right: 33%;
+  text-align: center;
+  background-image: url(images/cocktail.gif);
+  background-repeat: repeat-x;
+}
